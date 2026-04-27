@@ -109,20 +109,16 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ### MainActivity.java
-<img width="1918" height="1042" alt="image" src="https://github.com/user-attachments/assets/bb86fabf-095f-4a31-92f5-d32f42fd5418" />
 
 ### activity_main.xml
-<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/2bec69b5-9cca-449f-85e0-3f0f31c20171" />
+
 ### onCreate()
-<img width="431" height="849" alt="image" src="https://github.com/user-attachments/assets/d028d0f4-cd78-4feb-a101-5f5fd7560269" />
 
 
 ### onStart()
-<img width="440" height="855" alt="image" src="https://github.com/user-attachments/assets/e8f5b182-c947-4f33-ae75-5c8493d239fa" />
 
 
 ### onResume()
-<img width="445" height="858" alt="image" src="https://github.com/user-attachments/assets/06284f75-35cd-428c-9023-8338466f40b2" />
 
 
 ### onPause()
