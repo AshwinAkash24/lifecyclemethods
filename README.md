@@ -118,12 +118,15 @@ public class MainActivity extends AppCompatActivity {
 
 
 ### onCreate()
+<img width="430" height="855" alt="image" src="https://github.com/user-attachments/assets/10d4399f-7876-4061-845f-e1ad9494ba66" />
 
 
 ### onStart()
+<img width="430" height="848" alt="image" src="https://github.com/user-attachments/assets/13c51a48-3c8f-46f0-97a1-7dc0a2bc29d6" />
 
 
 ### onResume()
+<img width="493" height="850" alt="image" src="https://github.com/user-attachments/assets/699cd77c-7789-4f0c-a5f3-ad12ed612baa" />
 
 
 ### onPause()
